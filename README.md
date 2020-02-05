@@ -1,2 +1,2 @@
 # Glow_hockey
-Air hockey game made in c language.
+Air hockey game is made in c++ language.
